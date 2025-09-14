@@ -53,4 +53,3 @@ This project builds a simple linear regression model to predict a person's annua
     ```
 
     You can then access the application in your web browser at `http://localhost:8501`.
-# Income-Prediction-Model
